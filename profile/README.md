@@ -4,7 +4,7 @@ Welcome to Pandora Cube, a community of passionate game developers!
 
 ## 🙌 Introduction
 
-Pandora Cube is a club for people interested in game development to learn and grow together. We plan and develop creative games using various game engines such as Unity and Unreal Engine.
+Pandora Cube is a club for people interested in game development to learn and grow together. We plan and develop creative games using various game engines such as Unity and Unreal Engine. For more detailed information about our activities, please click [here](http://p-cube.kr/introduce).
 
 ## 🎯 Goals
 
@@ -22,9 +22,14 @@ Pandora Cube is a club for people interested in game development to learn and gr
 
 ## 🙋‍♀️ Join Us
 
-If you want to create games with Pandora Cube, feel free to contact us anytime! All you need is ideas and passion. 🤗
+If you want to create games with Pandora Cube, [join us anytime!](http://join.p-cube.kr) All you need is ideas and passion. 🤗
 
+## 📞 Contact Us
+
+Feel free to reach out to us anytime:
 - Email: [pcube.team@gmail.com](mailto:pcube.team@gmail.com)
 - Kakao Talk: [Pandora Cube](https://pf.kakao.com/_YgyvT)
+
+---
 
 Let's open the Pandora's box of gaming together with Pandora Cube! 🎉
